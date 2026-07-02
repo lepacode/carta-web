@@ -1,5 +1,5 @@
 var menuData = {
-    categorias: ['Promociones', 'Tacos', 'Tortas', 'Quesadillas', 'Antojitos', 'Sopas y Caldos', 'Botanas / Para Compartir', 'Guarniciones', 'Postres', 'Bebidas sin Alcohol', 'Bebidas con Alcohol'],
+    categorias: ['Promociones', 'Tacos', 'Tortas', 'Quesadillas', 'Antojitos', 'Sopas y Caldos', 'Botanas / Compartir', 'Guarniciones', 'Postres', 'Bebidas sin Alcohol', 'Bebidas con Alcohol'],
     productos: {
         Promociones: [
             {
@@ -214,7 +214,7 @@ var menuData = {
                 imagen: 'assets/mx/sopas-y-caldos/sopa-de-fideo.webp'
             }
         ],
-        'Botanas / Para Compartir': [
+        'Botanas / Compartir': [
             {
                 nombre: 'Guacamole con Totopos',
                 descripcion: 'Aguacate machacado con jitomate, cebolla, cilantro y chile, acompañado con totopos crujientes de maíz.',
